@@ -1,6 +1,7 @@
 # FreeGPTAPI - Unofficial API for ChatGPT
 
-FreeGPTAPI ![_b706f79a-a156-4464-a43b-9b7c1d23a364](https://github.com/GoliathReaper/FreeGPTAPI/assets/77969919/a4224823-10a2-4c25-97c0-d4f4305f7eed)
+![9b7c1d23a364](https://github.com/GoliathReaper/FreeGPTAPI/assets/77969919/d0f457c6-0ce0-499a-b2ce-a23e6b0bcefe)
+
 is a Python script that allows interaction with ChatGPT via a headless Firefox browser, automating queries and retrieving responses programmatically.
 
 ## Setup Instructions
