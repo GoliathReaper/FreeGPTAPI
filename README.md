@@ -34,7 +34,7 @@ Watch the video below to see FreeGPT in action:
 
 
 
-https://github.com/GoliathReaper/FreeGPTAPI/assets/77969919/21bff5af-682b-4b83-841c-94187f0c72da
+
 
 
 
