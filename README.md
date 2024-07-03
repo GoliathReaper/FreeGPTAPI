@@ -1,6 +1,6 @@
 # FreeGPTAPI - Unofficial API for ChatGPT
 
-FreeGPT is a Python script that allows interaction with ChatGPT via a headless Firefox browser, automating queries and retrieving responses programmatically.
+FreeGPTAPI is a Python script that allows interaction with ChatGPT via a headless Firefox browser, automating queries and retrieving responses programmatically.
 
 ## Setup Instructions
 
@@ -30,7 +30,7 @@ FreeGPT is a Python script that allows interaction with ChatGPT via a headless F
 
 ## Video Showcase
 
-Watch the video below to see FreeGPT in action:
+Watch the video below to see FreeGPTAPI in action:
 
 
 
@@ -40,8 +40,8 @@ https://github.com/GoliathReaper/FreeGPTAPI/assets/77969919/6ac41a1f-bb44-4e19-a
 
 ## Usage
 
-1. Modify the `QUESTION` variable in `freegpt.py` with your desired query.
-2. Run `python freegpt.py`.
+1. Modify the `QUESTION` variable in `FreeGPTAPI.py` with your desired query.
+2. Run `python FreeGPTAPI.py`.
 3. View the output response from ChatGPT in the terminal.
 
 ## Disclaimer
